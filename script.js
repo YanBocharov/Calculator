@@ -15,4 +15,4 @@ function equal() {
 function erase() {
     expression = '';
     userInput.value = expression;
-}
+} 
